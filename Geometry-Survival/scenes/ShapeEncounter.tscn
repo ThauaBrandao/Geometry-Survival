@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://enc000001"]
+
+[ext_resource type="Script" path="res://scripts/ShapeEncounter.gd" id="1_enc00"]
+
+[node name="ShapeEncounter" type="Control"]
+script = ExtResource("1_enc00")
