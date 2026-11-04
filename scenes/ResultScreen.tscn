@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://res000001"]
+
+[ext_resource type="Script" path="res://scripts/ResultScreen.gd" id="1_res00"]
+
+[node name="ResultScreen" type="Control"]
+script = ExtResource("1_res00")
